@@ -132,3 +132,7 @@ input[type="submit"]:hover {
 .signup_link b:hover {
     text-decoration: underline;
 }
+.signup_link b {
+    color: #0072B5;
+    text-decoration: none;
+}
